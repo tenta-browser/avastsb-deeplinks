@@ -3,6 +3,7 @@
 - [Load in secure & private mode](avastsb://load?address=Hello+Secret+World&zone=2)
 - [Open address bar in current mode](avastsb://addressbar)
 - [Open address bar in secure & private mode](avastsb://addressbar?zone=2)
+- [Open QR scanner](avastsb://qr-scan)
 - [DW VPN toggle](avastsb://dw-vpn)
 - [DW VPN toggle (and toggle)](avastsb://dw-vpn?toggle)
 - [DW Security Scan](avastsb://dw-security-scan)
