@@ -12,6 +12,7 @@
 - [Security Scan](avastsb://security-scan)
 - [Browser Shield](avastsb://browser-shield)
 - [Adblock Settings](avastsb://adblock)
+- [Privacy Statistics Settings](avastsb://privacystats)
 - [Mode Settings](avastsb://zone-settings)
 - [Webshield Toggle](avastsb://webshield)
 - [PIN Settings](avastsb://pin-set)
